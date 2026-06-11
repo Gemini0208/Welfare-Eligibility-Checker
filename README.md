@@ -68,10 +68,10 @@ Press `Ctrl+C` in the terminal to stop the server.
 
 ---
 
-### Option 2 — Command Line Interface
+### Option 2 — SWI Prolog
 
-```bash
-swipl main.pl
+```prolog
+consult 'Path to main.pl file'.
 ```
 Then at the prompt type:
 ```prolog
